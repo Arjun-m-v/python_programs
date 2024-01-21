@@ -1,0 +1,11 @@
+a={"name":"arjun","age":12,"class":"CS",100:"yes"}
+# print(a)
+# b=a.items()
+# b=a.keys()
+# b=a.values()
+# b=a.get("name")
+a.update({"class":"BSc"})
+# a.pop("age")
+# a.popitem()
+# a.clear()
+print(a)
